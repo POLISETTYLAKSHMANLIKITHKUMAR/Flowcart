@@ -1,1 +1,1 @@
-# Flowcart
+A Flowchart Builder 📊 using React enables **Create** (Add Nodes ✨), **Read** (View Diagram 📖), **Update** (Edit Connections 🔄), and **Delete** (Remove Elements 🗑️) functionalities. React handles dynamic UI ⚛️, making the flowchart interactive and responsive 🎨. It ensures smooth drag-and-drop functionality and real-time updates 🚀.
